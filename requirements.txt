@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+camelot
+camelot-py[cv] tabula-py
+opencv-python
+ghostscript
