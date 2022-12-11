@@ -4,7 +4,7 @@
 To run the code you have to: 
 - Ensure that python and pip are properly configure on your machine.
 - Install the necessary packages
--- They are: Numpy, Pandas, Matplotlib, Camelot, Ghostscript
+  - They are: Numpy, Pandas, Matplotlib, Camelot, Ghostscript
 - Run it as your typical python program.
 
 ## Instruction for python and pip configuration:
